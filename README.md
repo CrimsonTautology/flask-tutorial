@@ -1,1 +1,1 @@
-following https://realpython.com/flask-by-example-part-1-project-setup/
+following https://docs.docker.com/language/python/build-images/
